@@ -1,6 +1,6 @@
 ![ORBIT-Surgical](media/teaser.png)
 
----
+----
 
 # ORBIT-Surgical
 
